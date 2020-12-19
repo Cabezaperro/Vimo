@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory
+        android:key="prcProfileCategory"
+        android:title="@string/profile"
+        app:allowDividerBelow="false"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:key="prfUsername"
+            android:summary="@string/your_username"
+            android:title="@string/username" />
+
+        <Preference
+            android:icon="@drawable/ic_vpn_key_black_24dp"
+            android:key="prfPassword"
+            android:title="@string/password" />
+
+        <Preference
+            android:icon="@drawable/ic_email_black_24dp"
+            android:key="prfEmail"
+            app:isPreferenceVisible="false"
+            android:enabled="false"
+            android:summary="@string/your_email"
+            android:title="@string/email" />
+
+        <Preference
+            android:icon="@drawable/ic_image_black_24dp"
+            android:key="prfProfileImage"
+            android:title="@string/profile_image" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="prcLanguageAndRegionCategory"
+        android:title="@string/region_and_language"
+        app:isPreferenceVisible="false"
+        app:allowDividerAbove="false"
+        app:allowDividerBelow="false"
+        app:iconSpaceReserved="false">
+
+        <ListPreference
+            android:dialogTitle="@string/select_your_language"
+            android:enabled="false"
+            android:entries="@array/languages"
+            android:entryValues="@array/language_values"
+            android:icon="@drawable/ic_language_black_24dp"
+            android:key="lprLanguage"
+            android:summary="@string/selected_language"
+            android:title="@string/language" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="prcNotificationsAndUpdatesCategory"
+        android:title="@string/notifications_and_updates"
+        app:isPreferenceVisible="false"
+        app:allowDividerAbove="false"
+        app:iconSpaceReserved="false">
+
+        <SwitchPreferenceCompat
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:key="spcNotifications"
+            android:enabled="false"
+            android:title="@string/allow_notifications" />
+
+        <ListPreference
+            android:dialogTitle="@string/update_settings"
+            android:enabled="false"
+            android:entries="@array/update_options"
+            android:entryValues="@array/update_option_values"
+            android:icon="@drawable/ic_update_black_24dp"
+            android:key="lprUpdates"
+            android:summary="@string/custom_settings_for_updates"
+            android:title="@string/updates" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

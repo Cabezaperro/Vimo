@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.SignInActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/ctlSignInLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/layoutPadding">
+
+        <TextView
+            android:id="@+id/txvSignInEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/email"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilSignInEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:errorEnabled="true"
+            app:layout_constraintEnd_toEndOf="@+id/txvSignInEmail"
+            app:layout_constraintStart_toStartOf="@+id/txvSignInEmail"
+            app:layout_constraintTop_toBottomOf="@+id/txvSignInEmail">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/tieSignInEmail"
+                android:inputType="textEmailAddress"
+                android:textColor="@color/secondaryTextColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:id="@+id/txvSignInPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="@string/password"
+            app:layout_constraintEnd_toEndOf="@+id/tilSignInEmail"
+            app:layout_constraintStart_toStartOf="@+id/tilSignInEmail"
+            app:layout_constraintTop_toBottomOf="@+id/tilSignInEmail" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilSignInPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:errorEnabled="true"
+            app:layout_constraintEnd_toEndOf="@+id/txvSignInPassword"
+            app:layout_constraintStart_toStartOf="@+id/txvSignInPassword"
+            app:layout_constraintTop_toBottomOf="@+id/txvSignInPassword">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/tieSignInPassword"
+                android:inputType="textPassword"
+                android:textColor="@color/secondaryTextColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <LinearLayout
+            android:id="@+id/lnlSignInControls"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="@+id/tilSignInPassword"
+            app:layout_constraintStart_toStartOf="@+id/tilSignInPassword"
+            app:layout_constraintTop_toBottomOf="@+id/tilSignInPassword">
+
+            <CheckBox
+                android:id="@+id/cbxSignInRememberMe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="true"
+                android:text="@string/rememberMe" />
+
+            <Button
+                android:id="@+id/btnSignInSignUp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                style="@style/Button.Transparent"
+                android:text="@string/signUpUnderscored" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnSignInSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="@string/signIn"
+            android:textColor="@color/primaryTextColor"
+            android:background="@drawable/button_round_corner_gradient"
+            app:layout_constraintEnd_toEndOf="@+id/lnlSignInControls"
+            app:layout_constraintStart_toStartOf="@+id/lnlSignInControls"
+            app:layout_constraintTop_toBottomOf="@+id/lnlSignInControls" />
+
+        <TextView
+            android:id="@+id/txtSignInAlternativeSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:text="@string/alternativeSignIn"
+            android:textAlignment="center"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="@+id/btnSignInSignIn"
+            app:layout_constraintStart_toStartOf="@+id/btnSignInSignIn"
+            app:layout_constraintTop_toBottomOf="@+id/btnSignInSignIn" />
+
+        <LinearLayout
+            android:id="@+id/lnlSignInAlternativeSignIn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/txtSignInAlternativeSignIn"
+            app:layout_constraintStart_toStartOf="@+id/txtSignInAlternativeSignIn"
+            app:layout_constraintTop_toBottomOf="@+id/txtSignInAlternativeSignIn">
+
+            <ImageButton
+                android:id="@+id/ibtSignInGoogle"
+                android:layout_width="@dimen/ibtSignInWidth"
+                android:layout_height="@dimen/ibtSignInHeight"
+                android:layout_margin="16dp"
+                android:background="@drawable/ic_google" />
+
+            <ImageButton
+                android:id="@+id/ibtSignInFacebook"
+                android:layout_width="@dimen/ibtSignInWidth"
+                android:layout_height="@dimen/ibtSignInHeight"
+                android:layout_margin="16dp"
+                android:background="@drawable/ic_facebook" />
+
+            <ImageButton
+                android:id="@+id/ibtSignInTwitter"
+                android:layout_width="@dimen/ibtSignInWidth"
+                android:layout_height="@dimen/ibtSignInHeight"
+                android:layout_margin="16dp"
+                android:background="@drawable/ic_twitter" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

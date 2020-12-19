@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txvShowtimeItemShowtime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingVertical="4dp"
+            android:text="Showtime"
+            android:layout_weight="100"
+            android:textSize="20sp"
+            android:textColor="@color/primaryDarkColor" />
+
+        <ImageView
+            android:id="@+id/imvShowtimeItemFavourite"
+            android:tag="notfav"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/star_full"/>
+    </LinearLayout>
+
+</LinearLayout>

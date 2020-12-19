@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.favourite.cinema.FavouriteCinemaManageFragment">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbars="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="@dimen/layoutPadding">
+
+            <TextView
+                android:id="@+id/txvFavouriteCinemaManageFragmentCinemaName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/name"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Spinner
+                android:id="@+id/spnFavouriteCinemaManageFragmentCinemaName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="@+id/txvFavouriteCinemaManageFragmentCinemaName"
+                app:layout_constraintStart_toStartOf="@+id/txvFavouriteCinemaManageFragmentCinemaName"
+                app:layout_constraintTop_toBottomOf="@+id/txvFavouriteCinemaManageFragmentCinemaName" />
+
+            <TextView
+                android:id="@+id/txvFavouriteCinemaManageFragmentCinemaCompany"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:text="@string/company"
+                app:layout_constraintEnd_toEndOf="@+id/spnFavouriteCinemaManageFragmentCinemaName"
+                app:layout_constraintStart_toStartOf="@+id/spnFavouriteCinemaManageFragmentCinemaName"
+                app:layout_constraintTop_toBottomOf="@+id/spnFavouriteCinemaManageFragmentCinemaName" />
+
+            <EditText
+                android:id="@+id/etxFavouriteCinemaManageFragmentCinemaCompany"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:enabled="false"
+                android:inputType="textPersonName"
+                app:layout_constraintEnd_toEndOf="@+id/txvFavouriteCinemaManageFragmentCinemaCompany"
+                app:layout_constraintStart_toStartOf="@+id/txvFavouriteCinemaManageFragmentCinemaCompany"
+                app:layout_constraintTop_toBottomOf="@+id/txvFavouriteCinemaManageFragmentCinemaCompany" />
+
+            <TextView
+                android:id="@+id/txvFavouriteCinemaManageFragmentCinemaAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:text="@string/address"
+                app:layout_constraintEnd_toEndOf="@+id/etxFavouriteCinemaManageFragmentCinemaCompany"
+                app:layout_constraintStart_toStartOf="@+id/etxFavouriteCinemaManageFragmentCinemaCompany"
+                app:layout_constraintTop_toBottomOf="@+id/etxFavouriteCinemaManageFragmentCinemaCompany" />
+
+            <EditText
+                android:id="@+id/etxFavouriteCinemaManageFragmentCinemaAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:enabled="false"
+                android:inputType="textPersonName"
+                app:layout_constraintEnd_toEndOf="@+id/txvFavouriteCinemaManageFragmentCinemaAddress"
+                app:layout_constraintStart_toStartOf="@+id/txvFavouriteCinemaManageFragmentCinemaAddress"
+                app:layout_constraintTop_toBottomOf="@+id/txvFavouriteCinemaManageFragmentCinemaAddress" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabFavouriteCinemaManageFragmentCinemaAddConfirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fabAddMargin"
+        android:backgroundTint="@color/primaryColor"
+        android:clickable="true"
+        android:elevation="@dimen/fabAddElevation"
+        android:focusable="true"
+        android:src="@android:drawable/ic_menu_save"
+        android:tint="@color/primaryTextColor" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,1661 @@
+<!DOCTYPE html>
+<html lang="es" prefix="og: http://ogp.me/ns#">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <link rel="preconnect" href="//static.salir.ltmcdn.com">
+        <link rel="preconnect" href="//t1.salir.ltmcdn.com">
+        <link rel="preconnect" href="//t2.salir.ltmcdn.com">
+        <link rel="preconnect" href="//www.googletagservices.com">
+        <link rel="preconnect" href="//www.google.com">
+        <link rel="preconnect" href="//securepubads.g.doubleclick.net">
+        <link rel="preconnect" href="//adservice.google.com">
+        <link rel="preconnect" href="//c.amazon-adsystem.com">
+        <link rel="preconnect" href="//bidder.criteo.com">
+        <title>Cartelera de Cine Capitol - Madrid (Centro)</title>
+        <meta name="description"
+            content="Todas las películas de Cartelera y los horarios del Cine Capitol - Madrid en Salir.com. Este cine está ubicado en Madrid y tiene las mejores películas de estreno.">
+        <meta name="robots" content="all">
+        <meta name="ltm:project" content="salir">
+        <meta name="ltm:domain" content="salir.com">
+        <script>var
+            _0xb45d=["\x6D\x65\x74\x61\x5B\x6E\x61\x6D\x65\x3D\x27\x6C\x74\x6D\x3A\x64\x6F\x6D\x61\x69\x6E\x27\x5D","\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72","\x63\x6F\x6E\x74\x65\x6E\x74","\x69\x6E\x63\x6C\x75\x64\x65\x73","\x68\x6F\x73\x74\x6E\x61\x6D\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x72\x65\x66","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x67\x6F\x6F\x67\x6C\x65\x2E\x63\x6F\x6D"];if(!document[_0xb45d[1]](_0xb45d[0])||
+            !window[_0xb45d[5]][_0xb45d[4]][_0xb45d[3]](document[_0xb45d[1]](_0xb45d[0])[_0xb45d[2]])){window[_0xb45d[5]][_0xb45d[6]]=
+            _0xb45d[7]}
+        </script>
+        <script>(function(){
+
+            'use strict';var g=function(a){var b=0;return function(){return b<a.length
+            ?{done:!1,value:a[b++]}:{done:!0}}},l=this||self,m=/^[\w+/_-]+[=]{0,2}$/,p=null,q=function(){},r=function(a){var
+            b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof
+            Object)return b;var c=Object.prototype.toString.call(a);if("[object
+            Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&
+            "undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&
+            !a.propertyIsEnumerable("splice"))return"array";
+            if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof
+            a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else
+            return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return
+            b},u=function(a,b){function c(){}c.prototype=b.prototype;a.prototype=new
+            c;a.prototype.constructor=a};var
+            v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return
+            b},set:q})};var y=function(a,b){this.b=a===w&&b||"";this.a=x},x={},w={};var
+            aa=function(a,b){a.src=b instanceof y&&b.constructor===y&&
+            b.a===x?b.b:"type_error:TrustedResourceUrl";if(null===p)b:{b=l.document;if((b=b.querySelector
+            &&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&
+            m.test(b)){p=b;break b}p=""}b=p;b&&a.setAttribute("nonce",b)};var z=function(){return
+            Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^+new
+            Date).toString(36)};var
+            A=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&
+            (b=b.toLowerCase());return
+            a.createElement(b)},B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var
+            C=function(a,b,c,d,e,f){try{var
+            k=a.a,h=A(a.a,"SCRIPT");h.async=!0;aa(h,b);k.head.appendChild(h);h.addEventListener("load",function(){e();d
+            &&k.head.removeChild(h)});h.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,f):(d&
+            &k.head.removeChild(h),f())})}catch(n){f()}};var
+            ba=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ca=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),da=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ea=function(a,b,c){this.b=a;this.f=new
+            B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},F=function(a){if(a.b.body&&
+            !a.g){var b=
+            function(){D(a);l.setTimeout(function(){return
+            E(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},D=function(a){for(var
+            b=G(1,5),c=0;c<b;c++){var
+            d=H(a);a.b.body.appendChild(d);a.c.push(d)}b=H(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=G(100,110).toString()+"%";b.style.zIndex=G(2147483544,2147483644).toString();b.style["background-color"]=I(249,259,242,252,219,229);b.style["box-shadow"]="0
+            0 12px #888";b.style.color=I(0,10,0,10,0,10);b.style.display=
+            "flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto,
+            Arial";c=H(a);c.style.width=G(80,85).toString()+"%";c.style.maxWidth=G(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=A(a.f.a,"IMG");d.className=z();d.src=ba;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var
+            e=H(a),f=H(a);f.style["font-weight"]="bold";f.textContent=ca;var
+            k=H(a);k.textContent=da;J(a,
+            e,f);J(a,e,k);J(a,c,d);J(a,c,e);J(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=G(1,5);for(c=0;c
+            <b;c++)d=H(a),a.b.body.appendChild(d),a.c.push(d)},J=function(a,b,c){for(var
+            d=G(1,5),e=0;e<d;e++){var f=H(a);b.appendChild(f)}b.appendChild(c);c=G(1,5);for(d=0;d<c
+            ;d++)e=H(a),b.appendChild(e)},G=function(a,b){return
+            Math.floor(a+Math.random()*(b-a))},I=function(a,b,c,d,e,f){return"rgb("+G(Math.max(a,0),Math.min(b,255)).toString()+","+G(Math.max(c,0),Math.min(d,255)).toString()+","+G(Math.max(e,0),Math.min(f,
+            255)).toString()+")"},H=function(a){a=A(a.f.a,"DIV");a.className=z();return
+            a},E=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&
+            0!=a.a.offsetWidth||(fa(a),D(a),l.setTimeout(function(){return
+            E(a,b-1)},50))},fa=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&
+            Symbol.iterator&&
+            b[Symbol.iterator];b=c?c.call(b):{next:g(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)
+            &&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&
+            b.parentNode.removeChild(b);a.a=null};var ia=function(a,b,c,d,e){var
+            f=ha(c),k=function(n){n.appendChild(f);l.setTimeout(function(){f?(0!==f.offsetHeight&&
+            0!==f.offsetWidth?b():a(),f.parentNode&&
+            f.parentNode.removeChild(f)):a()},d)},h=function(n){document.body?k(document.body):0<n
+            ?l.setTimeout(function(){h(n-1)},e):b()};h(3)},ha=function(a){var
+            b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return
+            b};var K={},L=null;var M=function(){},N="function"==typeof
+            Uint8Array,O=function(a,b){a.b=null;b||(b=[]);a.j=void
+            0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof
+            c||Array.isArray(c)||N&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break
+            a}}a.g=Number.MAX_VALUE}a.i={}},P=[],Q=function(a,b){if(b<a.g){b+=a.f;var
+            c=a.a[b];return c===P?a.a[b]=[]:c}if(a.c)return
+            c=a.c[b],c===P?a.c[b]=[]:c},R=function(a,b,c){a.b||(a.b={});if(!a.b[c]){var d=Q(a,c);d&&
+            (a.b[c]=new b(d))}return a.b[c]};
+            M.prototype.h=N?function(){var
+            a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&
+            (b=0);if(!L){L={};for(var
+            c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var
+            f=c.concat(d[e].split(""));K[e]=f;for(var k=0;k<f.length;k++){var h=f[k];void 0===L[h]&&
+            (L[h]=k)}}}b=K[b];c=[];for(d=0;d<this.length;d+=3){var n=this[d],t=(e=d+1<this.length
+            )?this[d+1]:0;h=(f=d+2<this.length)?this[d+2]:0;k=n>>2;n=(n&
+            3)
+            <
+            <4|t>>4;t=(t&15)
+            <
+            <2|h>>6;h&=63;f||(h=64,e||(t=64));c.push(b[k],b[n],b[t]||"",b[h]||"")}return
+            c.join("")};try{return JSON.stringify(this.a&&
+            this.a,S)}finally{Uint8Array.prototype.toJSON=a}}:function(){return
+            JSON.stringify(this.a&&this.a,S)};var S=function(a,b){return"number"!==typeof
+            b||!isNaN(b)&&Infinity!==b&&
+            -Infinity!==b?b:String(b)};M.prototype.toString=function(){return this.a.toString()};var
+            T=function(a){O(this,a)};u(T,M);var U=function(a){O(this,a)};u(U,M);var
+            ja=function(a,b){this.c=new B(a);var c=R(b,T,5);c=new y(w,Q(c,4)||"");this.b=new
+            ea(a,c,Q(b,4));this.a=b},ka=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=new
+            y(w,Q(b,4)||"");C(a.c,b,3,!1,c,function(){ia(function(){F(a.b);d(!1)},function(){d(!0)},Q(a.a,2),Q(a.a,3),Q(a.a,1))})};var
+            la=function(a,b){V(a,"internal_api_load_with_sb",function(c,d,e){ka(b,c,d,e)});V(a,"internal_api_sb",function(){F(b.b)})},V=function(a,b,c){a=l.btoa(a+b);v(a,c)},W=function(a,b,c){for(var
+            d=[],e=2;e<arguments.length
+            ;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else
+            throw Error("API not exported.");};var X=function(a){O(this,a)};u(X,M);var
+            Y=function(a){this.h=window;this.a=a;this.b=Q(this.a,1);this.f=R(this.a,T,2);this.g=R(this.a,U,3);this.c=!1};Y.prototype.start=function(){ma();var
+            a=new ja(this.h.document,this.g);la(this.b,a);na(this)};
+            var ma=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var
+            b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else
+            l.setTimeout(a,5)};a()},na=function(a){var
+            b=Date.now();W(a.b,"internal_api_load_with_sb",a.f.h(),function(){var c;var
+            d=a.b,e=l[l.btoa(d+"loader_js")];if(e){e=l.atob(e);
+            e=parseInt(e,10);d=l.btoa(d+"loader_js").split(".");var f=l;d[0]in
+            f||"undefined"==typeof f.execScript||f.execScript("var "+d[0]);for(;d.length&&
+            (c=d.shift());)d.length?f[c]&&
+            f[c]!==Object.prototype[c]?f=f[c]:f=f[c]={}:f[c]=null;c=Math.abs(b-e);c=1728E5>c?0:c}else
+            c=-1;0!=c&&
+            (W(a.b,"internal_api_sb"),Z(a,Q(a.a,6)))},function(c){Z(a,c?Q(a.a,4):Q(a.a,5))})},Z=function(a,b){a.c||(a.c=!0,a=new
+            l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var
+            d=[],e=0;e<arguments.length
+            ;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__d3lUW8vwsKlB__",function(a){"function"==typeof
+            window.atob&&(a=window.atob(a),a=new X(a?JSON.parse(a):null),(new
+            Y(a)).start())});}).call(this);
+
+            window.__d3lUW8vwsKlB__("WyI0MDA4Y2U1ZTIyYTI4MzM1IixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4VzV3dTY1emkwLTh0bHkxZlFOdWgwSWljS1doVF9yVkhKWElLdDVVUGhWUm8wZDdJWXI2N0M0TW96eTMxNkphWEx6bmEzakpoMGUxaGk2Tnd0emxvZ1x1MDAzZCJdCixbMjAsImRpdi1ncHQtYWQiLDEwMCwiTkRBd09HTmxOV1V5TW1FeU9ETXpOUVx1MDAzZFx1MDAzZCIsW251bGwsbnVsbCxudWxsLCJodHRwczovL3d3dy5nc3RhdGljLmNvbS8wZW1uL2YvcC80MDA4Y2U1ZTIyYTI4MzM1LmpzP3VzcXBcdTAwM2RDQXMiXQpdCiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVMGlaT2owX1c5MVZFXzJ1cm1ud3llWlM4emlvLXFHRHJDUkZlX2UwQk9EZ3hyeTNQb1h4akVENDRKX0U4UlZtMVI3QllUZTN4UGd0ekFhZVNaP2FiXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2wvQUdTS1d4WDR4Y2dWbDdoT2d4Ukc5aWVnekpMS19jdGNfWGprcnJNVUZfazg0NmZVeDRjZkZ2S0tTTmFJbktPTkE3QS03dmFqRUs1b0FYYmxmZmdoekFFMz9hYlx1MDAzZDJcdTAwMjZzYmZcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVWVZWVC1wX2dUcU51eVVMdDg2dnJEa0R1My1LRWt0Mnd6S29XaHBUR191eFN0R0QyTHV6YmdXRW1oZzZXVVZVUFBybFNOWktYNU13cFhhSmlqP3NiZlx1MDAzZDIiXQo=");
+        </script>
+        <meta property="fb:app_id" content="1365962006854541" />
+        <meta property="og:locale" content="es_ES" />
+        <meta property="og:site_name" content="salir.com" />
+        <meta property="og:url"
+            content="https://www.salir.com/cartelera-cine-capitol-madrid-neg-126025.html" />
+        <meta property="twitter:site" content="@salircom" />
+        <meta property="og:title" content="Cartelera de Cine Capitol - Madrid (Centro)" />
+        <meta property="og:description"
+            content="Todas las películas de Cartelera y los horarios del Cine Capitol - Madrid en Salir.com. Este cine está ubicado en Madrid y tiene las mejores películas de estreno." />
+        <meta property="og:image"
+            content="https://t1.salir.ltmcdn.com/es/places/5/2/0/img_126025_cine-capitol-madrid_0_600.jpg" />
+        <meta property="og:type" content="business.business" />
+        <meta property="twitter:card" content="summary_large_image" />
+        <link rel="canonical"
+            href="https://www.salir.com/cartelera-cine-capitol-madrid-neg-126025.html" />
+        <meta name="isdirectory" content="1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="theme-color" content="#302A37">
+        <link href="https://static.salir.ltmcdn.com/css/css_salir_42.css" media="all"
+            rel="stylesheet" type="text/css">
+        <script type="text/javascript">
+
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-1692315-1', 'auto', {'useAmpClientId': true});
+            ga('send', 'pageview');
+
+        </script>
+        <script>
+            function checkCmp(callback) {
+            window.googlefc = window.googlefc || {};
+            window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+            googlefc.callbackQueue.push({
+            'CONSENT_DATA_READY':
+            () => callback()
+            });
+            }
+        </script>
+        <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+        <script>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+        </script>
+        <script>
+            googletag.cmd.push(function() {
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.pubads().setTargeting('ltm-id', '126025').setTargeting('category',
+            'Cine').setTargeting('zone', 'Place').setTargeting('project',
+            'salir').setTargeting('lang', 'es').setTargeting('project-lang', 'salir-es');
+            googletag.pubads().disableInitialLoad();
+            googletag.enableServices();
+            });
+        </script>
+        <script>
+            var prebids = [];
+            prebids['ltm_desktop_roba_1'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160298",zoneId:"768906"} },{ bidder: "criteo", params:
+            {zoneId:"1242868"} }]
+            prebids['ltm_desktop_roba_2'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160298",zoneId:"768906"} },{ bidder: "criteo", params:
+            {zoneId:"1242868"} }]
+            prebids['ltm_desktop_roba_3'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160298",zoneId:"768906"} },{ bidder: "criteo", params:
+            {zoneId:"1242868"} }]
+            prebids['ltm_desktop_sky_1'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160298",zoneId:"768906"} },{ bidder: "criteo", params:
+            {zoneId:"1242867"} }]
+            prebids['ltm_mobile_roba_1'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160300",zoneId:"768938"} },{ bidder: "criteo", params:
+            {zoneId:"1242865"} }]
+            prebids['ltm_mobile_roba_2'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160300",zoneId:"768938"} },{ bidder: "criteo", params:
+            {zoneId:"1242865"} }]
+            prebids['ltm_mobile_roba_3'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160300",zoneId:"768938"} },{ bidder: "criteo", params:
+            {zoneId:"1242865"} }]
+            prebids['ltm_nonpolicy_desktop_roba_1'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160298",zoneId:"768906"} },{ bidder: "criteo", params:
+            {zoneId:"1242868"} }]
+            prebids['ltm_nonpolicy_desktop_roba_2'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160298",zoneId:"768906"} },{ bidder: "criteo", params:
+            {zoneId:"1242868"} }]
+            prebids['ltm_nonpolicy_desktop_roba_3'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160298",zoneId:"768906"} },{ bidder: "criteo", params:
+            {zoneId:"1242868"} }]
+            prebids['ltm_nonpolicy_desktop_sky_1'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160298",zoneId:"768906"} },{ bidder: "criteo", params:
+            {zoneId:"1242867"} }]
+            prebids['ltm_nonpolicy_mobile_roba_1'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160300",zoneId:"768938"} },{ bidder: "criteo", params:
+            {zoneId:"1242865"} }]
+            prebids['ltm_nonpolicy_mobile_roba_2'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160300",zoneId:"768938"} },{ bidder: "criteo", params:
+            {zoneId:"1242865"} }]
+            prebids['ltm_nonpolicy_mobile_roba_3'] = [{ bidder: "rubicon", params:
+            {accountId:"16598",siteId:"160300",zoneId:"768938"} },{ bidder: "criteo", params:
+            {zoneId:"1242865"} }]
+        </script>
+        <script type="text/javascript" async
+            src="//static.salir.ltmcdn.com/js/library/prebid/prebid_20180601115812.js"></script>
+        <script>
+            var pbjs = pbjs || {};
+            pbjs.que = pbjs.que || [];
+            pbjs.bidderSettings = {
+            rubicon: {
+            bidCpmAdjustment : function(bidCpm){
+            return bidCpm * 0.84;
+            }
+            }
+            };
+        </script>
+        <script>
+            !function(a9,a,p,s,t,A,g){if(a[a9])return;function
+            q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+            var apstag = apstag || {};
+            apstag.init({
+            pubID: 'a2951e5c-81d1-4de5-8cd6-475a5b9685fc',
+            adServer: 'googletag'
+            });
+        </script>
+        <script async="async" src="https://www.google.com/adsense/search/ads.js"></script>
+        <script type="text/javascript" charset="utf-8">
+            (function (g, o) {
+            g[o] = g[o] || function () {
+            (g[o]['q'] = g[o]['q'] || []).push(
+            arguments)
+            }, g[o]['t'] = 1 * new Date
+            })(window, '_googCsa');
+        </script>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({article:'auto'});
+            var taboolaNetwork = 'ww-network';
+        </script>
+    </head>
+    <body class="ctrl-place action-index ">
+        <div class="container">
+            <a name="top"></a>
+            <div class="cerrar-menu"></div>
+            <div class="menu" data-js-selector="menu">
+                <div class="wrap-menu max_width clearfix" data-js-selector="status">
+                    <a class="cine menu-item ga" data-category="Header" data-event="Cine"
+                        href="https://www.salir.com/estrenos-cine.html">
+                        <div class="table">
+                            <div class="centrar">Cine</div>
+                        </div>
+                    </a>
+                    <a class="restaurantes menu-item ga" data-category="Header"
+                        data-event="Restaurantes" href="https://www.salir.com/madrid/restaurantes/">
+                        <div class="table">
+                            <div class="centrar">Restaurantes</div>
+                        </div>
+                    </a>
+                    <a class="de-noche menu-item ga" data-category="Header" data-event="De noche"
+                        href="https://www.salir.com/madrid/de-noche/">
+                        <div class="table">
+                            <div class="centrar">De noche</div>
+                        </div>
+                    </a>
+                    <div class="descubre">
+                        <div class="table">
+                            <div class="centrar">Más</div>
+                        </div>
+                    </div>
+                    <div class="lista_menu">
+                        <div class="clear">
+                            <a class="ga hidden" data-category="Header" data-event="Go to hub"
+                                data-label="-1" href="https://www.salir.com/estrenos-cine.html">Cine
+                            </a>
+                            <a class="ga hidden" data-category="Header" data-event="Go to hub"
+                                data-label="2" href="https://www.salir.com/madrid/restaurantes/">
+                                Restaurantes
+                            </a>
+                            <a class="ga hidden" data-category="Header" data-event="Go to hub"
+                                data-label="134" href="https://www.salir.com/madrid/de-noche/">De
+                                noche
+                            </a>
+                            <a class="ga" data-category="Header" data-event="Go to hub"
+                                data-label="115" href="https://www.salir.com/madrid/de-compras/">De
+                                compras
+                            </a>
+                            <a class="ga" data-category="Header" data-event="Go to hub"
+                                data-label="131"
+                                href="https://www.salir.com/madrid/cuidado-personal/">Cuidado
+                                personal
+                            </a>
+                            <a class="ga" data-category="Header" data-event="Go to hub"
+                                data-label="166" href="https://www.salir.com/madrid/actividades/">
+                                Actividades
+                            </a>
+                            <a class="ga" data-category="Header" data-event="Go to hub"
+                                data-label="927" href="https://www.salir.com/madrid/sexo-y-citas/">
+                                Sexo y citas
+                            </a>
+                            <a class="ga" data-category="Header" data-event="Go to hub"
+                                data-label="-3" href="https://www.salir.com/articulos/">Artículos
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-content">
+                <header>
+                    <div class="max_width align-center">
+                        <img class="hamburguesa" data-js-selector="menu-boton"
+                            onclick="$('.container').toggleClass('menu-abierto'); if($('.container').hasClass('menu-abierto')) GAevent('Header','Display menu');"
+                            src="https://static.salir.ltmcdn.com/img/web/menu.png">
+                        <div class="logo-directory">
+                            <a href="https://www.salir.com/madrid/">
+                                <img
+                                    src="https://static.salir.ltmcdn.com/img/web/salir/logo/negativo/es.png"
+                                    alt="Web de ocio" class="logo ga" data-category="Header"
+                                    data-event="go to home">
+                            </a>
+                            <div id="ambito">
+                                por:
+                                <a class="ambito-desplegable" data-js-selector="ambito-desplegable">
+                                    Madrid
+                                </a>
+                            </div>
+                        </div>
+                        <div class="open-compartir" data-js-selector="open-compartir">Compartir
+                        </div>
+                        <form id="buscador" class="search-form salir-form"
+                            action="https://www.salir.com/busqueda" method="GET"
+                            onsubmit="if ($('#q').val().length < 3) { alert('Con tan poquito no podemos saber lo que quieres, haz una búsqueda más larga.'); $('#q').focus(); GAevent('Header', 'short search', $('#q').val()); return false; } else { GAevent('Header', 'search', $('#q').val()) }">
+                            <fieldset>
+                                <input name="q" id="q" data-js-selector="q"
+                                    class="input text search" placeholder="¿Qué estás buscando?">
+                                <button type="button" class="button search"
+                                    onclick="if($('#q').val() == '' || $('#q').val() == $('#q').data('q')){$('#q').focus()} else {$('#buscador').submit();}">
+                                    <img src="https://static.salir.ltmcdn.com/img/web/lupa.png">
+                                    <span>Buscar</span>
+                                </button>
+                            </fieldset>
+                        </form>
+                    </div>
+                    <div data-js-selector="dropdown_menu" class="dropdown-content">
+                        <div class="max_width">
+                            <div class="toda-espania">
+                                <a href="https://www.salir.com">Toda España</a>
+                            </div>
+                            <div class="columna-provincias">
+                                <div class="titulillo">Provincias</div>
+                                <ul class="provincias">
+                                    <li>
+                                        <a href="https://www.salir.com/a-coruna/">A Coruña</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/alava/">Álava</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/albacete/">Albacete</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/alicante/">Alicante</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/almeria/">Almería</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/asturias/">Asturias</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/avila/">Ávila</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/badajoz/">Badajoz</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/barcelona/">Barcelona</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/burgos/">Burgos</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/caceres/">Cáceres</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/cadiz/">Cádiz</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/cantabria/">Cantabria</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/castellon/">Castellón</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/ceuta/">Ceuta</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/ciudad-real/">Ciudad Real</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/cordoba/">Córdoba</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/cuenca/">Cuenca</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/eivissa/">Eivissa</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/formentera/">Formentera</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/girona/">Girona</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/granada/">Granada</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/guadalajara/">Guadalajara</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/guipuzcoa/">Guipúzcoa</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/huelva/">Huelva</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/huesca/">Huesca</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/jaen/">Jaén</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/la-rioja/">La Rioja</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/las-palmas/">Las Palmas</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/leon/">León</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/lleida/">Lleida</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/lugo/">Lugo</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/madrid/">Madrid</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/malaga/">Málaga</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/mallorca/">Mallorca</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/menorca/">Menorca</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/murcia/">Murcia</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/navarra/">Navarra</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/ourense/">Ourense</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/palencia/">Palencia</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/pontevedra/">Pontevedra</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/salamanca/">Salamanca</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/santa-cruz-de-tenerife/">
+                                            Santa Cruz de Tenerife
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/segovia/">Segovia</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/sevilla/">Sevilla</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/soria/">Soria</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/tarragona/">Tarragona</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/teruel/">Teruel</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/toledo/">Toledo</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/valencia/">Valencia</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/valladolid/">Valladolid</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/vizcaya/">Vizcaya</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/zamora/">Zamora</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.salir.com/zaragoza/">Zaragoza</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <div class="compartir share-off" data-js-selector="compartir">
+                    <div class="max_width">
+                        <span>Compartir en:</span>
+                        <a href="http://www.facebook.com/sharer.php?u=https://www.salir.com/cartelera-cine-capitol-madrid-neg-126025.html"
+                            class="social-icon facebook ga" rel="nofollow"
+                            data-js-selector="launch_popup" data-category="Post" data-event="share"
+                            data-label="facebook"></a>
+                        <a href="http://twitter.com/share?original_referer=https://www.salir.com/cartelera-cine-capitol-madrid-neg-126025.html&amp;text=Cine Capitol - Madrid&amp;url=https://www.salir.com/cartelera-cine-capitol-madrid-neg-126025.html&amp;via=salircom"
+                            class="social-icon twitter ga" rel="nofollow"
+                            data-js-selector="launch_popup" data-category="Post" data-event="share"
+                            data-label="twitter"></a>
+                        <a href="http://pinterest.com/pin/create/button/?url=https://www.salir.com/cartelera-cine-capitol-madrid-neg-126025.html&amp;media=https://t1.salir.ltmcdn.com/es/places/5/2/0/img_126025_cine-capitol-madrid_0_600.jpg"
+                            class="social-icon pinterest ga" rel="nofollow"
+                            data-js-selector="launch_popup" data-category="Post" data-event="share"
+                            data-label="pinterest" data-pin-custom="true"></a>
+                        <a href="https://wa.me/?text=Cine Capitol - Madrid - https://www.salir.com/cartelera-cine-capitol-madrid-neg-126025.html"
+                            class="social-icon whatsapp ga" rel="nofollow"
+                            data-js-selector="launch_popup" data-category="Post" data-event="share"
+                            data-label="whatsapp"></a>
+                    </div>
+                </div>
+                <div class="header-gap">
+                    <ul class="breadcrumb">
+                        <li>
+                            <a href="https://www.salir.com">
+                                <span>Salir.com</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.salir.com/madrid/">
+                                <span>Madrid</span>
+                            </a>
+                        </li>
+                        <li>Cine Capitol - Madrid</li>
+                    </ul>
+                    <article class="columna-post">
+                        <h1 class="titulo titulo--articulo">
+                            Cartelera de Cine Capitol - Madrid
+                        </h1>
+                        <div class="info_articulo ">
+                            <div class="daticos noimgautor">
+                                <a href="#comentarios" class="datico">
+                                    <div class="stars">
+                                        <div class="total">
+                                            <div class="valoracion" style="width: 80.00%"></div>
+                                        </div>
+                                    </div>
+                                    <span class="votos">
+                                        Valoración: 4 (1 voto)
+                                    </span>
+                                </a>
+                                <a href="#comentarios" class="datico">2 comentarios</a>
+                            </div>
+                            <div class="autor noimgautor"></div>
+                        </div>
+                        <div class="intro ficha-item">
+                            <div class="ficha-content place">
+                                <p class="location">
+                                    <span></span>
+                                    <a href="#" rel="nofollow" data-js-selector="open_map_loc"
+                                        title="Como llegar a Cine Capitol - Madrid">Gran Vía, 41,
+                                        Madrid, 28013
+                                    </a>
+                                </p>
+                                <p>
+                                    <label>Barrio:</label>
+                                    Centro (Malasaña)
+                                </p>
+                            </div>
+                            <div>
+                                <p>3 salas. Precio normal: 9,70. Día espectador: X (7,90).</p>
+                            </div>
+                        </div>
+                        <div class="cartelera-block">
+                            <div class="schedule">
+                                <h4>Horarios de Cine Capitol - Madrid</h4>
+                                <ul id="carousel" class="elastislide-list"
+                                    data-js-selector="cartelera-days">
+                                    <li class="selected"
+                                        style="max-width: 130px; max-height: 130px;"
+                                        data-js-selector="cartelera-cine-day" data-date="2020-11-18"
+                                        data-id-place="126025">
+                                        <a href="#" rel="nofollow" class="ga"
+                                            data-category="Billboard" data-event="Change day"
+                                            data-label="126025">
+                                            <div class="dia">miércoles</div>
+                                            <div class="num-dia">18</div>
+                                            <div class="mes">noviembre</div>
+                                        </a>
+                                    </li>
+                                    <li style="max-width: 130px; max-height: 130px;"
+                                        data-js-selector="cartelera-cine-day" data-date="2020-11-19"
+                                        data-id-place="126025">
+                                        <a href="#" rel="nofollow" class="ga"
+                                            data-category="Billboard" data-event="Change day"
+                                            data-label="126025">
+                                            <div class="dia">jueves</div>
+                                            <div class="num-dia">19</div>
+                                            <div class="mes">noviembre</div>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="clear padding-cartelera">
+                                <div class="cartelera-items" data-js-selector="cartelera-items">
+                                    <div class="cartelera-item">
+                                        <div class="cartelera-img">
+                                            <a href="https://www.salir.com/el-ano-que-dejamos-de-jugar-mov-22523.html">
+                                                <img class="img-responsive" data-pin-nopin="true"
+                                                    alt="El año que dejamos de jugar"
+                                                    src="https://t1.salir.ltmcdn.com/es/movies/3/2/5/el_ano_que_dejamos_de_jugar_0_175_250.jpg">
+                                            </a>
+                                        </div>
+                                        <div class="cartelera-content">
+                                            <div class="cartelera-sinopsis">
+                                                <div class="overtext-shadow"></div>
+                                                <h3>
+                                                    <a href="https://www.salir.com/el-ano-que-dejamos-de-jugar-mov-22523.html">
+                                                        El año que dejamos de jugar
+                                                    </a>
+                                                </h3>
+                                                <p>
+                                                    <label>Duración:</label>
+                                                    1h 59mins
+                                                </p>
+                                                <p>1933. La llegada de Hitler al poder cambia
+                                                    radicalmente la vida de Anna y su familia. Ella
+                                                    tiene nueve años cuando todo comienza, demasiado
+                                                    ocupada con sus cosas para prestar atención a lo
+                                                    que acontece en Berlín. Pero cuando un día su
+                                                    padre desaparece, se ve obligada a desarraigar
+                                                    toda su existencia....
+                                                </p>
+                                            </div>
+                                            <div class="btn-cta">
+                                                <a class="trailer"
+                                                    href="https://www.salir.com/el-ano-que-dejamos-de-jugar-mov-22523.html">
+                                                    <span></span>Ver tráiler
+                                                </a>
+                                            </div>
+                                            <div class="imdb">
+                                                <span>7,1
+                                                    <br>
+                                                    <span>IMDb</span>
+                                                </span>
+                                            </div>
+                                            <div class="horarios">
+                                                <ul class="schedule-list">
+                                                    <li>16:00</li>
+                                                    <li>16:00</li>
+                                                    <li>18:30</li>
+                                                    <li>18:30</li>
+                                                    <li>21:00</li>
+                                                    <li>21:00</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cartelera-item">
+                                        <div class="cartelera-img">
+                                            <a href="https://www.salir.com/jovenes-y-brujas-mov-23140.html">
+                                                <img class="img-responsive" data-pin-nopin="true"
+                                                    alt="Jóvenes y brujas"
+                                                    src="https://t1.salir.ltmcdn.com/es/movies/0/4/1/jovenes_y_brujas_0_175_250.jpg">
+                                            </a>
+                                        </div>
+                                        <div class="cartelera-content">
+                                            <div class="cartelera-sinopsis">
+                                                <div class="overtext-shadow"></div>
+                                                <h3>
+                                                    <a href="https://www.salir.com/jovenes-y-brujas-mov-23140.html">
+                                                        Jóvenes y brujas
+                                                    </a>
+                                                </h3>
+                                                <p>
+                                                    <label>Duración:</label>
+                                                    1h 34mins
+                                                </p>
+                                                <p>Un ecléctico cuarteto de aspirantes a brujas
+                                                    adolescentes obtienen más de lo que esperaban
+                                                    mientras se apoyan en sus nuevos poderes.
+                                                </p>
+                                            </div>
+                                            <div class="btn-cta">
+                                                <a class="trailer"
+                                                    href="https://www.salir.com/jovenes-y-brujas-mov-23140.html">
+                                                    <span></span>Ver tráiler
+                                                </a>
+                                            </div>
+                                            <div class="imdb">
+                                                <span>5
+                                                    <br>
+                                                    <span>IMDb</span>
+                                                </span>
+                                            </div>
+                                            <div class="horarios">
+                                                <ul class="schedule-list">
+                                                    <li>16:00</li>
+                                                    <li>16:00</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cartelera-item">
+                                        <div class="cartelera-img">
+                                            <a href="https://www.salir.com/sentimental-mov-22921.html">
+                                                <img class="img-responsive" data-pin-nopin="true"
+                                                    alt="Sentimental"
+                                                    src="https://t2.salir.ltmcdn.com/es/movies/1/2/9/sentimental_0_175_250.jpg">
+                                            </a>
+                                        </div>
+                                        <div class="cartelera-content">
+                                            <div class="cartelera-sinopsis">
+                                                <div class="overtext-shadow"></div>
+                                                <h3>
+                                                    <a href="https://www.salir.com/sentimental-mov-22921.html">
+                                                        Sentimental
+                                                    </a>
+                                                </h3>
+                                                <p>
+                                                    <label>Duración:</label>
+                                                    1h 18mins
+                                                </p>
+                                                <p>Julio y Ana hace más de quince años que están
+                                                    juntos. Forman una pareja que ya no se mira ni
+                                                    se toca, y que ha hecho del combate diario la
+                                                    esencia de su relación. Una noche Ana invita a
+                                                    casa a sus vecinos del piso de arriba, Salva y
+                                                    Laura, una pareja más joven que ellos, amable y
+                                                    simpática,...
+                                                </p>
+                                            </div>
+                                            <div class="btn-cta">
+                                                <a class="trailer"
+                                                    href="https://www.salir.com/sentimental-mov-22921.html">
+                                                    <span></span>Ver tráiler
+                                                </a>
+                                            </div>
+                                            <div class="imdb">
+                                                <span>6,8
+                                                    <br>
+                                                    <span>IMDb</span>
+                                                </span>
+                                            </div>
+                                            <div class="horarios">
+                                                <ul class="schedule-list">
+                                                    <li>16:30</li>
+                                                    <li>16:30</li>
+                                                    <li>18:15</li>
+                                                    <li>18:15</li>
+                                                    <li>20:00</li>
+                                                    <li>20:00</li>
+                                                    <li>22:00</li>
+                                                    <li>22:00</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cartelera-item">
+                                        <div class="cartelera-img">
+                                            <a href="https://www.salir.com/greenland-el-ultimo-refugio-mov-23056.html">
+                                                <img class="img-responsive" data-pin-nopin="true"
+                                                    alt="Greenland: El último refugio"
+                                                    src="https://t1.salir.ltmcdn.com/es/movies/6/5/0/greenland_el_ultimo_refugio_0_175_250.jpg">
+                                            </a>
+                                        </div>
+                                        <div class="cartelera-content">
+                                            <div class="cartelera-sinopsis">
+                                                <div class="overtext-shadow"></div>
+                                                <h3>
+                                                    <a href="https://www.salir.com/greenland-el-ultimo-refugio-mov-23056.html">
+                                                        Greenland: El último refugio
+                                                    </a>
+                                                </h3>
+                                                <p>
+                                                    <label>Duración:</label>
+                                                    1h 59mins
+                                                </p>
+                                                <p>Cuando el mundo se entera de que el asteroide más
+                                                    grande de la historia va a impactar en la Tierra
+                                                    y aniquilar todo rastro de vida, los gobiernos
+                                                    de todo el mundo realizan un sorteo en el cual
+                                                    los afortunados podrán sobrevivir en refugios
+                                                    secretos. Esta decisión desata un caos a nivel
+                                                    mundial....
+                                                </p>
+                                            </div>
+                                            <div class="btn-cta">
+                                                <a class="trailer"
+                                                    href="https://www.salir.com/greenland-el-ultimo-refugio-mov-23056.html">
+                                                    <span></span>Ver tráiler
+                                                </a>
+                                            </div>
+                                            <div class="imdb">
+                                                <span>6,5
+                                                    <br>
+                                                    <span>IMDb</span>
+                                                </span>
+                                            </div>
+                                            <div class="horarios">
+                                                <ul class="schedule-list">
+                                                    <li>18:00</li>
+                                                    <li>18:00</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="spinner" data-js-selector="loading-cartelera"
+                                    hidden="hidden">
+                                    <div class="spin"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="publibydfp ad mobile breakpoint_1"
+                            id='div-gpt-ad-1490621822506-6' data-client='1052877'
+                            data-dfp='ltm_mobile_roba_1' data-sizes='[300, 250]'></div>
+                        <div
+                            class="clear_both publibydfp ad breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4"
+                            id='div-gpt-ad-1490621822506-2' data-client='1052877'
+                            data-dfp='ltm_desktop_roba_1'
+                            data-sizes='[[336, 280],[300, 250]]'></div>
+                        <div class="business-location">
+                            <div class="map-link" data-js-selector="open_map_nearby"
+                                data-label="id">
+                                <a class="map-container" href="#" rel="nofollow">
+                                    <h2>Buscar cerca de Cine Capitol - Madrid</h2>
+                                </a>
+                            </div>
+                            <div class="modalDialog" style="z-index:999999;"
+                                data-js-selector="modal_map_nearby">
+                                <input type="hidden" data-js-selector="current-url"
+                                    value="https://www.salir.com/cartelera-cine-capitol-madrid-neg-126025.html">
+                                <div class="modal-map">
+                                    <a href="#" class="close" data-js-selector="close_map_nearby">
+                                        X
+                                    </a>
+                                    <div id="nearby_map"
+                                        style="width: 100%; height: 100%; background: darkgrey"
+                                        data-js-coordinates="40.4206, -3.7064"></div>
+                                    <div class="info">
+                                        <div class="close-info" data-js-selector="close_map_info">
+                                            <a href="#">X</a>
+                                        </div>
+                                        <div class="info-content">
+                                            <div class="info-title">
+                                                <a href="#" target="_blank" class="ga"
+                                                    data-category="Place"
+                                                    data-event="Map Nearby - Go to Place"
+                                                    data-label="126025">
+                                                    <img data-js-selector="image" class="image">
+                                                </a>
+                                                <a href="#" target="_blank" class="title ga"
+                                                    data-category="Place"
+                                                    data-event="Map Nearby - Go to Place"
+                                                    data-label="126025"
+                                                    data-js-selector="title"></a>
+                                                <div class="desc" data-js-selector="desc"></div>
+                                            </div>
+                                            <div class="gradientback"></div>
+                                        </div>
+                                    </div>
+                                    <div class="checkbox-wrapper">
+                                        <input id="nearby_0" type="checkbox" checked
+                                            data-js-selector="nearby-checkbox" value="2"
+                                            data-color="ffd200">
+                                        <label for="nearby_0">Restaurantes
+                                            <img height="20"
+                                                src="https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|ffd200">
+                                        </label>
+                                        <input id="nearby_1" type="checkbox" checked
+                                            data-js-selector="nearby-checkbox" value="115"
+                                            data-color="E7711B">
+                                        <label for="nearby_1">De compras
+                                            <img height="20"
+                                                src="https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|E7711B">
+                                        </label>
+                                        <input id="nearby_2" type="checkbox" checked
+                                            data-js-selector="nearby-checkbox" value="939"
+                                            data-color="fe636f">
+                                        <label for="nearby_2">Cine
+                                            <img height="20"
+                                                src="https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|fe636f">
+                                        </label>
+                                        <input id="nearby_3" type="checkbox" checked
+                                            data-js-selector="nearby-checkbox" value="134"
+                                            data-color="D00BD3">
+                                        <label for="nearby_3">De noche
+                                            <img height="20"
+                                                src="https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|D00BD3">
+                                        </label>
+                                        <input id="nearby_4" type="checkbox" checked
+                                            data-js-selector="nearby-checkbox" value="927"
+                                            data-color="3598DC">
+                                        <label for="nearby_4">Sexo y citas
+                                            <img height="20"
+                                                src="https://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|3598DC">
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modalDialog" style="z-index:999999;"
+                                data-js-selector="modal_map_loc">
+                                <div class="modal-map full-height">
+                                    <a href="#" rel="nofollow" class="close"
+                                        data-js-selector="close_map_loc">X
+                                    </a>
+                                    <iframe
+                                        src="https://www.google.com/maps?q=Cine Capitol - Madrid+Gran Vía, 41, Madrid, 28013&output=embed"
+                                        width="100%" height="100%" frameborder="0"
+                                        style="width:100%;border:0" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <aside>
+                        <div class="relacionados" data-js-selector="related-aside">
+                            <div class="bloquegroup clear padding-left-1">
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related lateral"
+                                    data-label="https://www.salir.com/cartelera-cine-palacio-de-la-prensa-madrid-neg-126037.html">
+                                    <div class="position-imagen">
+                                        <img data-pin-nopin="true"
+                                            alt="Cine Palacio de La Prensa - Madrid" class="imagen "
+                                            src="https://t1.salir.ltmcdn.com/es/places/7/3/0/img_126037_cine-palacio-de-la-prensa-madrid_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/cartelera-cine-palacio-de-la-prensa-madrid-neg-126037.html"
+                                        class="titulo titulo--bloque">Cine Palacio de La Prensa -
+                                        Madrid
+                                    </a>
+                                </div>
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related lateral"
+                                    data-label="https://www.salir.com/cartelera-cine-callao-digital-4k-madrid-neg-126036.html">
+                                    <div class="position-imagen">
+                                        <img data-pin-nopin="true"
+                                            alt="Cine Callao Digital 4K - Madrid" class="imagen "
+                                            src="https://t1.salir.ltmcdn.com/es/places/6/3/0/img_126036_cine-callao-digital-4k-madrid_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/cartelera-cine-callao-digital-4k-madrid-neg-126036.html"
+                                        class="titulo titulo--bloque">Cine Callao Digital 4K -
+                                        Madrid
+                                    </a>
+                                </div>
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related lateral"
+                                    data-label="https://www.salir.com/cartelera-cine-acteon-madrid-neg-126033.html">
+                                    <div class="position-imagen">
+                                        <img data-pin-nopin="true" alt="Cine Acteón - Madrid"
+                                            class="imagen "
+                                            src="https://t2.salir.ltmcdn.com/es/places/3/3/0/img_126033_cine-acteon-madrid_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/cartelera-cine-acteon-madrid-neg-126033.html"
+                                        class="titulo titulo--bloque">Cine Acteón - Madrid
+                                    </a>
+                                </div>
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related lateral"
+                                    data-label="https://www.salir.com/cartelera-cine-renoir-plaza-de-espana-neg-126022.html">
+                                    <div class="position-imagen">
+                                        <img data-pin-nopin="true" alt="Cine Renoir Plaza de España"
+                                            class="imagen "
+                                            src="https://t2.salir.ltmcdn.com/es/places/2/2/0/img_126022_cine-renoir-plaza-de-espana_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/cartelera-cine-renoir-plaza-de-espana-neg-126022.html"
+                                        class="titulo titulo--bloque">Cine Renoir Plaza de España
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-js-selector="promoted"
+                            class="publibydfp ad mobile breakpoint_1 breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4"
+                            id='div-gpt-ad-ltm_desktop_promoted' data-client='1052877'
+                            data-dfp='ltm_desktop_promoted' data-sizes='[160, 80]'></div>
+                        <div data-js-selector="pegajoso"
+                            class="publibydfp ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4"
+                            id='div-gpt-ad-1490621822506-5' data-client='1052877'
+                            data-dfp='ltm_desktop_sky_1' data-sizes='[300, 600]'></div>
+                    </aside>
+                    <div class="columna-post">
+                        <script type="text/javascript">
+                            !function (e, f, u, i) {
+                            if (!document.getElementById(i)){
+                            e.async = 1;
+                            e.src = u;
+                            e.id = i;
+                            f.parentNode.insertBefore(e, f);
+                            }
+                            }(document.createElement('script'),
+                            document.getElementsByTagName('script')[0],
+                            '//cdn.taboola.com/libtrc/linktomedia-'+taboolaNetwork+'/loader.js',
+                            'tb_loader_script');
+                            if(window.performance && typeof window.performance.mark == 'function')
+                            {window.performance.mark('tbl_ic');}
+                        </script>
+                        <div id="taboola-below-article-thumbnails"
+                            class=" publibytaboola ad breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4"></div>
+                        <script type="text/javascript">
+                            if
+                            (document.getElementById('taboola-below-article-thumbnails').offsetParent
+                            !== null) {
+                            window._taboola = window._taboola || [];
+                            checkCmp(function () {
+                            _taboola.push({
+                            mode: 'thumbnails-a',
+                            container: 'taboola-below-article-thumbnails',
+                            placement: 'Below Article Thumbnails',
+                            target_type: 'mix'
+                            });
+                            });
+                            }
+                        </script>
+                        <div id="taboola-mobile-below-article-thumbnails"
+                            class=" publibytaboola ad mobile breakpoint_1"></div>
+                        <script type="text/javascript">
+                            if
+                            (document.getElementById('taboola-mobile-below-article-thumbnails').offsetParent
+                            !== null) {
+                            window._taboola = window._taboola || [];
+                            checkCmp(function () {
+                            _taboola.push({
+                            mode: 'thumbnails-b',
+                            container: 'taboola-mobile-below-article-thumbnails',
+                            placement: 'Mobile Below Article Thumbnails',
+                            target_type: 'mix'
+                            });
+                            });
+                            }
+                        </script>
+                        <h2 class="titulo titulo--h2">
+                            <div class="pastilla">
+                                <strong>Sitios interesantes cerca de</strong>
+                                Cine Capitol - Madrid
+                            </div>
+                        </h2>
+                        <div class="relacionados bottom" data-js-selector="related-bottom">
+                            <div class="bloquegroup clear padding-left-1">
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related bottom"
+                                    data-label="https://www.salir.com/la-libanesa-madrid-neg-112135.html">
+                                    <div class="position-imagen">
+                                        <div class="stars">
+                                            <div class="total">
+                                                <div class="valoracion"
+                                                    style="width: 100.00%"></div>
+                                            </div>
+                                        </div>
+                                        <img data-pin-nopin="true" alt="La Libanesa"
+                                            class="imagen loading" src=""
+                                            data-imagen="https://t1.salir.ltmcdn.com/es/places/5/3/1/img_112135_la-libanesa_0_300_150.jpg"
+                                            data-imagen-2x="https://t1.salir.ltmcdn.com/es/places/5/3/1/img_112135_la-libanesa_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/la-libanesa-madrid-neg-112135.html"
+                                        class="titulo titulo--bloque">La Libanesa
+                                    </a>
+                                </div>
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related bottom"
+                                    data-label="https://www.salir.com/la-tentacion-madrid-neg-79778.html">
+                                    <div class="position-imagen">
+                                        <div class="stars">
+                                            <div class="total">
+                                                <div class="valoracion" style="width: 70.00%"></div>
+                                            </div>
+                                        </div>
+                                        <img data-pin-nopin="true" alt="La Tentación"
+                                            class="imagen loading" src=""
+                                            data-imagen="https://t2.salir.ltmcdn.com/es/places/8/7/7/img_79778_la-tentacion_0_300_150.jpg"
+                                            data-imagen-2x="https://t2.salir.ltmcdn.com/es/places/8/7/7/img_79778_la-tentacion_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/la-tentacion-madrid-neg-79778.html"
+                                        class="titulo titulo--bloque">La Tentación
+                                    </a>
+                                </div>
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related bottom"
+                                    data-label="https://www.salir.com/larios-cafe-restaurante-madrid-neg-125618.html">
+                                    <div class="position-imagen">
+                                        <div class="stars">
+                                            <div class="total">
+                                                <div class="valoracion"
+                                                    style="width: 100.00%"></div>
+                                            </div>
+                                        </div>
+                                        <img data-pin-nopin="true" alt="Larios Café Restaurante"
+                                            class="imagen loading" src=""
+                                            data-imagen="https://t1.salir.ltmcdn.com/es/places/8/1/6/img_125618_larios-cafe-restaurante_0_300_150.jpg"
+                                            data-imagen-2x="https://t1.salir.ltmcdn.com/es/places/8/1/6/img_125618_larios-cafe-restaurante_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/larios-cafe-restaurante-madrid-neg-125618.html"
+                                        class="titulo titulo--bloque">Larios Café Restaurante
+                                    </a>
+                                </div>
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related bottom"
+                                    data-label="https://www.salir.com/golden-gran-via-madrid-neg-8105.html">
+                                    <div class="position-imagen">
+                                        <div class="stars">
+                                            <div class="total">
+                                                <div class="valoracion" style="width: 58.00%"></div>
+                                            </div>
+                                        </div>
+                                        <img data-pin-nopin="true" alt="Golden Gran Vía"
+                                            class="imagen loading" src=""
+                                            data-imagen="https://t2.salir.ltmcdn.com/es/places/5/0/1/img_8105_golden-gran-via_0_300_150.jpg"
+                                            data-imagen-2x="https://t2.salir.ltmcdn.com/es/places/5/0/1/img_8105_golden-gran-via_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/golden-gran-via-madrid-neg-8105.html"
+                                        class="titulo titulo--bloque">Golden Gran Vía
+                                    </a>
+                                </div>
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related bottom"
+                                    data-label="https://www.salir.com/jose-alfredo-madrid-neg-36697.html">
+                                    <div class="position-imagen">
+                                        <div class="stars">
+                                            <div class="total">
+                                                <div class="valoracion" style="width: 82.60%"></div>
+                                            </div>
+                                        </div>
+                                        <img data-pin-nopin="true" alt="José Alfredo"
+                                            class="imagen loading" src=""
+                                            data-imagen="https://t1.salir.ltmcdn.com/es/places/7/9/6/img_36697_jose-alfredo_0_300_150.jpg"
+                                            data-imagen-2x="https://t1.salir.ltmcdn.com/es/places/7/9/6/img_36697_jose-alfredo_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/jose-alfredo-madrid-neg-36697.html"
+                                        class="titulo titulo--bloque">José Alfredo
+                                    </a>
+                                </div>
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related bottom"
+                                    data-label="https://www.salir.com/la-central-de-callao-madrid-neg-127837.html">
+                                    <div class="position-imagen">
+                                        <img data-pin-nopin="true" alt="La Central de Callao"
+                                            class="imagen loading" src=""
+                                            data-imagen="https://t2.salir.ltmcdn.com/es/places/7/3/8/img_127837_la-central-de-callao_0_300_150.jpg"
+                                            data-imagen-2x="https://t2.salir.ltmcdn.com/es/places/7/3/8/img_127837_la-central-de-callao_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/la-central-de-callao-madrid-neg-127837.html"
+                                        class="titulo titulo--bloque">La Central de Callao
+                                    </a>
+                                </div>
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related bottom"
+                                    data-label="https://www.salir.com/el-fabuloso-club-madrid-neg-128388.html">
+                                    <div class="position-imagen">
+                                        <img data-pin-nopin="true" alt="El Fabuloso Club"
+                                            class="imagen loading" src=""
+                                            data-imagen="https://t1.salir.ltmcdn.com/es/places/8/8/3/img_128388_el-fabuloso-club_0_300_150.jpg"
+                                            data-imagen-2x="https://t1.salir.ltmcdn.com/es/places/8/8/3/img_128388_el-fabuloso-club_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/el-fabuloso-club-madrid-neg-128388.html"
+                                        class="titulo titulo--bloque">El Fabuloso Club
+                                    </a>
+                                </div>
+                                <div class="bloque link ga" data-category="Post"
+                                    data-event="related bottom"
+                                    data-label="https://www.salir.com/atlantica-juegos-madrid-neg-31563.html">
+                                    <div class="position-imagen">
+                                        <div class="stars">
+                                            <div class="total">
+                                                <div class="valoracion" style="width: 84.40%"></div>
+                                            </div>
+                                        </div>
+                                        <img data-pin-nopin="true" alt="Atlántica Juegos"
+                                            class="imagen loading" src=""
+                                            data-imagen="https://t2.salir.ltmcdn.com/es/places/3/6/5/img_31563_atlantica-juegos_0_300_150.jpg"
+                                            data-imagen-2x="https://t2.salir.ltmcdn.com/es/places/3/6/5/img_31563_atlantica-juegos_0_300_150.jpg">
+                                    </div>
+                                    <a href="https://www.salir.com/atlantica-juegos-madrid-neg-31563.html"
+                                        class="titulo titulo--bloque">Atlántica Juegos
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="comentarios" id="comentarios">
+                            <h2 class="titulo titulo--linea sin-margin-lateral">
+                                <div class="pastilla">
+                                    <strong>Escribir comentario sobre</strong>
+                                    Cine Capitol - Madrid
+                                </div>
+                            </h2>
+                            <div>
+                                <form method="post" class="formulario"
+                                    data-js-selector="formulario-comentario" data-id-respuesta="-1">
+                                    <input type="hidden" name="id_place" data-js-selector="id_place"
+                                        value="126025">
+                                    <input type="hidden" name="id_respuesta" value="-1">
+                                    <input type="hidden" name="id_categoria" value="">
+                                    <div data-js-selector="comentario-nombre-mail">
+                                        <div class="columna izquierda">
+                                            <div class="position-relative">
+                                                <div class="error"
+                                                    data-js-selector="error-nombre"></div>
+                                                <input type="text" class="input" name="nombre"
+                                                    placeholder="Nombre">
+                                            </div>
+                                        </div>
+                                        <div class="columna derecha">
+                                            <div class="position-relative">
+                                                <div class="error"
+                                                    data-js-selector="error-email"></div>
+                                                <input type="email" class="input" name="email"
+                                                    placeholder="Correo electrónico (no se publicará)">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="position-relative">
+                                        <div class="error"
+                                            data-js-selector="error-comentario"></div>
+                                        <textarea name="comentario"
+                                            placeholder="Comentario o pregunta"></textarea>
+                                    </div>
+                                    <div class="rating">
+                                        <div class="selector--starts">
+                                            <input type="radio" name="rating" id="valoracion-null"
+                                                class="valoracion" value="0" checked="checked">
+                                            <label for="valoracion-null"
+                                                style="display:none;"></label>
+                                            <input type="radio" name="rating" id="valoracion-1"
+                                                class="valoracion" value="1"
+                                                onclick="$('#texto-valoracion').html($(this).data('texto'));"
+                                                data-texto="No es útil">
+                                            <label for="valoracion-1"></label>
+                                            <input type="radio" name="rating" id="valoracion-2"
+                                                class="valoracion" value="2"
+                                                onclick="$('#texto-valoracion').html($(this).data('texto'));"
+                                                data-texto="Más o menos">
+                                            <label for="valoracion-2"></label>
+                                            <input type="radio" name="rating" id="valoracion-3"
+                                                class="valoracion" value="3"
+                                                onclick="$('#texto-valoracion').html($(this).data('texto'));"
+                                                data-texto="Normal">
+                                            <label for="valoracion-3"></label>
+                                            <input type="radio" name="rating" id="valoracion-4"
+                                                class="valoracion" value="4"
+                                                onclick="$('#texto-valoracion').html($(this).data('texto'));"
+                                                data-texto="Útil">
+                                            <label for="valoracion-4"></label>
+                                            <input type="radio" name="rating" id="valoracion-5"
+                                                class="valoracion" value="5"
+                                                onclick="$('#texto-valoracion').html($(this).data('texto'));"
+                                                data-texto="Muy útil">
+                                            <label for="valoracion-5"></label>
+                                        </div>
+                                        <label class="label">Tu valoración:</label>
+                                        <span class="texto" id="texto-valoracion">
+                                            ¿Qué te ha parecido el sitio?
+                                        </span>
+                                    </div>
+                                    <button type="button" data-js-selector="enviar_comentario"
+                                        class="boton m" data-id-respuesta="-1">Enviar comentario
+                                    </button>
+                                    <input name="politica" id="politica_-1" type="checkbox">
+                                    <label for="politica_-1">He leído y acepto la
+                                        <a href="https://www.salir.com/index/politicadeprivacidad"
+                                            rel="nofollow" data-js-selector="launch_popup">política
+                                            de privacidad
+                                        </a>
+                                    </label>
+                                    <label class="legal">Red Link To Media recopila los datos
+                                        personales solo para uso interno. En ningún caso, tus datos
+                                        serán transferidos a terceros sin tu autorización.<br>De
+                                        acuerdo con la ley del 8 de diciembre de 1992, puedes
+                                        acceder a la base de datos que contiene tus datos personales
+                                        y modificar esta información en cualquier momento,
+                                        poniéndote en contacto con Red Link To Media SL (<a
+                                            href="mailto:info@linktomedia.net">
+                                            info@linktomedia.net</a>)
+                                    </label>
+                                </form>
+                            </div>
+                            <div class="titulo titulo--linea sin-margin-lateral">
+                                <div class="pastilla">2 comentarios</div>
+                            </div>
+                            <div data-js-selector="append-comentarios">
+                                <div class="comentario" data-id-comment="220766">
+                                    <div class="puntuacion">
+                                        <small>Su valoración:</small>
+                                        <div class="stars">
+                                            <div class="total">
+                                                <div class="valoracion" style="width: 80.00%"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a id="responder-220766"></a>
+                                    <div class="imagen"></div>
+                                    <div class="nombre">Taznia</div>
+                                    <time class="fecha">26/10/2020</time>
+                                    <div class="texto">
+                                        En que cine puedo ver la película “ dilwale dulhania le
+                                        jayenge” ?? En 30 de octubre?
+                                    </div>
+                                    <div class="acciones">
+                                        <div style="float:left;">
+                                            <button type="button" class="boton xs"
+                                                data-js-selector="responder"
+                                                data-id-respuesta="220766">Responder
+                                            </button>
+                                        </div>
+                                        <div style="float:right;">
+                                            <button type="button" class="pulgar"
+                                                data-js-selector="karma-positivo"
+                                                data-id-comment="220766">0
+                                            </button>
+                                            <button type="button" class="pulgar"
+                                                data-js-selector="karma-negativo"
+                                                data-id-comment="220766">0
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="form-respuesta desplegable"
+                                        data-js-selector="form-respuesta"
+                                        data-id-respuesta="220766"></div>
+                                </div>
+                                <div class="comentario" data-id-comment="197043">
+                                    <a id="responder-197043"></a>
+                                    <div class="imagen"></div>
+                                    <div class="nombre">Eyleen</div>
+                                    <time class="fecha">15/01/2019</time>
+                                    <div class="texto">
+                                        precios para ver las películas en 3D ?
+                                    </div>
+                                    <div class="acciones">
+                                        <div style="float:left;">
+                                            <button type="button" class="boton xs"
+                                                data-js-selector="responder"
+                                                data-id-respuesta="197043">Responder
+                                            </button>
+                                        </div>
+                                        <div style="float:right;">
+                                            <button type="button" class="pulgar"
+                                                data-js-selector="karma-positivo"
+                                                data-id-comment="197043">0
+                                            </button>
+                                            <button type="button" class="pulgar"
+                                                data-js-selector="karma-negativo"
+                                                data-id-comment="197043">0
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="form-respuesta desplegable"
+                                        data-js-selector="form-respuesta"
+                                        data-id-respuesta="197043"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div data-js-selector="relacionados" class="relacionados"></div>
+                        <div class="spinner" data-js-selector="loading-relacionados"
+                            hidden="hidden">
+                            <div class="spin"></div>
+                        </div>
+                        <input type="hidden" name="id_place" data-js-selector="id_place"
+                            value="126025">
+                        <button class="boton l margin-bottom-3"
+                            data-js-selector="more_items_related">¡Quiero ver más sitios parecidos!
+                        </button>
+                    </div>
+                    <div class="barra-titulo-articulo" data-js-selector="barra_articulo">
+                        <div class="max_width">
+                            <div class="wrap_titulo-barra-articulo">Cine Capitol - Madrid</div>
+                            <form id="buscador_secondary" class="search-form"
+                                action="https://www.salir.com/busqueda" method="GET"
+                                onsubmit="if ($('#q_secondary').val().length < 3) { alert('Con tan poquito no podemos saber lo que quieres, haz una búsqueda más larga.'); $('#q_secondary').focus(); GAevent('Header', 'short search', $('#q_secondary').val()); return false; } else { GAevent('Header', 'search', $('#q_secondary').val()) }">
+                                <fieldset>
+                                    <input name="q" id="q_secondary" data-js-selector="q_secondary"
+                                        class="input text search"
+                                        placeholder="¿Qué estás buscando?">
+                                    <button type="button" class="button search"
+                                        onclick="if($('#q_secondary').val() == ''){$('#q_secondary').focus()} else { $('#buscador_secondary').submit();}">
+                                        <img src="https://static.salir.ltmcdn.com/img/web/lupa.png">
+                                        <span>Buscar</span>
+                                    </button>
+                                </fieldset>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="bg-galeria" data-js-selector="galeria" data-total="1">
+                        <div class="galeria-table">
+                            <div class="galeria">
+                                <div class="publibydfp ad mobile breakpoint_1 breakpoint_1-5"
+                                    id='div-gpt-ad-1490621822506-13' data-client='1052877'
+                                    data-dfp='ltm_mobile_minilb_2' data-sizes='[320, 50]'></div>
+                                <div class="max-width-1100">
+                                    <div class="table">
+                                        <div
+                                            class="cell cell--publi publibydfp ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4"
+                                            id='div-gpt-ad-1490621822506-10' data-client='1052877'
+                                            data-dfp='ltm_desktop_sky_2'
+                                            data-sizes='[160, 600]'></div>
+                                        <div class="cell cell--img">
+                                            <div class="imagen active"
+                                                data-js-selector="imagen-galeria" data-posicion="0">
+                                                <img src=""
+                                                    data-src="https://t1.salir.ltmcdn.com/es/places/5/2/0/img_126025_cine-capitol-madrid_0_orig.jpg"
+                                                    data-js-selector="img-galeria"
+                                                    data-posicion="0">
+                                            </div>
+                                        </div>
+                                        <div
+                                            class="cell cell--publi publibydfp ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4"
+                                            id='div-gpt-ad-1490621822506-11' data-client='1052877'
+                                            data-dfp='ltm_desktop_sky_3'
+                                            data-sizes='[160, 600]'></div>
+                                    </div>
+                                </div>
+                                <div class="titulo-galeria">Cine Capitol - Madrid</div>
+                                <div class="cerrar" data-js-selector="galeria-cerrar">
+                                    <div class="icono"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr class="mobile">
+                    <ul class="breadcrumb mobile">
+                        <li>
+                            <a href="https://www.salir.com">
+                                <span>Salir.com</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.salir.com/madrid/">
+                                <span>Madrid</span>
+                            </a>
+                        </li>
+                        <li>Cine Capitol - Madrid</li>
+                    </ul>
+                    <a class="ga back_top" href="#top" data-category="Post"
+                        data-event="back to top">Volver arriba
+                        <span class="up-arrow"></span>
+                    </a>
+                    <div class="back_top_desktop">
+                        <span class="up-arrow"></span>
+                    </div>
+                </div>
+                <footer>
+                    <div class="max_width columnas--1">
+                        <div class="clear">
+                            <div class="columna">
+                                <div class="titulo titulo--footer">Redes sociales</div>
+                                <div class="social margin-bottom-1">
+                                    <a href="https://www.facebook.com/Salircom"
+                                        class="facebook follow-icon ga" target="_blank"
+                                        rel="nofollow" data-category="Footer"
+                                        data-event="go to social" data-label="facebook"></a>
+                                    <a href="https://twitter.com/salircom"
+                                        class="twitter follow-icon ga" target="_blank"
+                                        rel="nofollow" data-category="Footer"
+                                        data-event="go to social" data-label="twitter"></a>
+                                    <a href="https://www.instagram.com/salir.com.bcn/"
+                                        class="instagram follow-icon ga" target="_blank"
+                                        rel="nofollow" data-category="Footer"
+                                        data-event="go to social" data-label="instagram"></a>
+                                    <a href="https://www.pinterest.es/salircom/"
+                                        class="pinterest follow-icon ga" target="_blank"
+                                        rel="nofollow" data-category="Footer"
+                                        data-event="go to social" data-label="pinterest"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="subfooter">
+                        <div class="max_width">
+                            <a href="https://www.linktomedia.com" rel="nofollow" target="_blank"
+                                class="ltm-logo">
+                                <img src="https://static.salir.ltmcdn.com/img/web/ltm-logo.png">
+                            </a>
+                            <strong>&copy; salir.com</strong>
+                            <em>2020</em>
+                            <a class="ga" data-category="Footer" data-event="quienes somos"
+                                rel="nofollow" href="https://www.salir.com/quienes-somos">Quiénes
+                                somos
+                            </a>
+                            <a class="ga" data-category="Footer" data-event="contacta con nosotros"
+                                target="_blank" rel="nofollow"
+                                href="https://www.linktomedia.com/#Contacto">Contacta con nosotros
+                            </a>
+                            <a class="ga" data-category="Footer" data-event="terminos y condiciones"
+                                data-js-selector="launch_popup" target="_blank"
+                                href="https://www.salir.com/index/terminosycondiciones"
+                                rel="nofollow">Términos y Condiciones
+                            </a>
+                            <a class="ga" data-category="Footer" data-event="politica de privacidad"
+                                data-js-selector="launch_popup" target="_blank"
+                                href="https://www.salir.com/index/politicadeprivacidad"
+                                rel="nofollow">Política de privacidad
+                            </a>
+                            <a class="ga" data-category="Footer" data-event="politica de cookies"
+                                data-js-selector="launch_popup" target="_blank"
+                                href="https://www.salir.com/index/politicadecookies" rel="nofollow">
+                                Política de cookies
+                            </a>
+                        </div>
+                    </div>
+                </footer>
+                <div id="mediaquery"></div>
+            </div>
+        </div>
+        <script type="text/javascript" async="true"
+            src="https://static.salir.ltmcdn.com/js/js_salir_144.js"></script>
+        <script type="text/javascript">
+            //<!--
+    repetidosRelatedJs = "126025,112135,79778,125618,8105,36697,127837,128388,31563";    //-->
+        </script>
+        <script type="text/javascript" async="true"
+            src="//maps.googleapis.com/maps/api/js?key=AIzaSyAI61FhLRrF3rsdFoRi666xHAIAR8801hs"></script>
+        <script type="text/javascript">
+            //<!--
+    window._taboola = window._taboola || [];_taboola.push({flush: true});    //-->
+        </script>
+        <script type="text/javascript" async="true"
+            src="https://tc.dataxpand.com/tc/b2zphp6.js"></script>
+        <script type="application/ld+json">
+            [{"@context":"http:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Salir.com","item":"https:\/\/www.salir.com"},{"@type":"ListItem","position":2,"name":"Madrid","item":"https:\/\/www.salir.com\/madrid\/"}]},{"@context":"http:\/\/schema.org\/","@type":"MovieTheater","@id":"https:\/\/www.salir.com\/cartelera-cine-capitol-madrid-neg-126025.html","name":"Cine
+            Capitol -
+            Madrid","url":"https:\/\/www.salir.com\/cartelera-cine-capitol-madrid-neg-126025.html","description":"","geo":{"@type":"GeoCoordinates","latitude":"40.4206","longitude":"
+            -3.7064"},"image":["https:\/\/t1.salir.ltmcdn.com\/es\/places\/5\/2\/0\/img_126025_cine-capitol-madrid_0_orig.jpg"],"address":{"@type":"PostalAddress","streetAddress":"Gran
+            V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4","ratingCount":1}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"El
+            a\u00f1o que dejamos de jugar","startDate":"2020-11-18T16:00:00+01:00","description":"El
+            a\u00f1o que dejamos de jugar en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de
+            noviembre de 2020 a las 16:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"El
+            a\u00f1o que dejamos de jugar","startDate":"2020-11-18T16:00:00+01:00","description":"El
+            a\u00f1o que dejamos de jugar en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de
+            noviembre de 2020 a las 16:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"El
+            a\u00f1o que dejamos de jugar","startDate":"2020-11-18T18:30:00+01:00","description":"El
+            a\u00f1o que dejamos de jugar en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de
+            noviembre de 2020 a las 18:30","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"El
+            a\u00f1o que dejamos de jugar","startDate":"2020-11-18T18:30:00+01:00","description":"El
+            a\u00f1o que dejamos de jugar en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de
+            noviembre de 2020 a las 18:30","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"El
+            a\u00f1o que dejamos de jugar","startDate":"2020-11-18T21:00:00+01:00","description":"El
+            a\u00f1o que dejamos de jugar en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de
+            noviembre de 2020 a las 21:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"El
+            a\u00f1o que dejamos de jugar","startDate":"2020-11-18T21:00:00+01:00","description":"El
+            a\u00f1o que dejamos de jugar en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de
+            noviembre de 2020 a las 21:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"J\u00f3venes
+            y brujas","startDate":"2020-11-18T16:00:00+01:00","description":"J\u00f3venes y brujas
+            en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020 a las
+            16:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"J\u00f3venes
+            y brujas","startDate":"2020-11-18T16:00:00+01:00","description":"J\u00f3venes y brujas
+            en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020 a las
+            16:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"Sentimental","startDate":"2020-11-18T16:30:00+01:00","description":"Sentimental
+            en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020 a las
+            16:30","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"Sentimental","startDate":"2020-11-18T16:30:00+01:00","description":"Sentimental
+            en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020 a las
+            16:30","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"Sentimental","startDate":"2020-11-18T18:15:00+01:00","description":"Sentimental
+            en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020 a las
+            18:15","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"Sentimental","startDate":"2020-11-18T18:15:00+01:00","description":"Sentimental
+            en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020 a las
+            18:15","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"Sentimental","startDate":"2020-11-18T20:00:00+01:00","description":"Sentimental
+            en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020 a las
+            20:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"Sentimental","startDate":"2020-11-18T20:00:00+01:00","description":"Sentimental
+            en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020 a las
+            20:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"Sentimental","startDate":"2020-11-18T22:00:00+01:00","description":"Sentimental
+            en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020 a las
+            22:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"Sentimental","startDate":"2020-11-18T22:00:00+01:00","description":"Sentimental
+            en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020 a las
+            22:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"Greenland:
+            El \u00faltimo
+            refugio","startDate":"2020-11-18T18:00:00+01:00","description":"Greenland: El
+            \u00faltimo refugio en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020
+            a las 18:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}},{"@context":"http:\/\/schema.org\/","@type":"Event","name":"Greenland:
+            El \u00faltimo
+            refugio","startDate":"2020-11-18T18:00:00+01:00","description":"Greenland: El
+            \u00faltimo refugio en Cine Capitol - Madrid el mi\u00e9rcoles, 18 de noviembre de 2020
+            a las 18:00","location":{"@type":"Place","name":"Cine Capitol -
+            Madrid","address":{"@type":"PostalAddress","streetAddress":"Gran V\u00eda,
+            41","addressLocality":"Madrid","addressRegion":"Madrid","addressCountry":"ES","postalCode":"28013"}}}]
+        </script>
+    </body>
+</html>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.SignUpActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/ctlSignUpLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/layoutPadding">
+
+        <TextView
+            android:id="@+id/txvSignUpUsername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/username"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilSignUpUsername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:errorEnabled="true"
+            app:layout_constraintEnd_toEndOf="@+id/txvSignUpUsername"
+            app:layout_constraintStart_toStartOf="@+id/txvSignUpUsername"
+            app:layout_constraintTop_toBottomOf="@+id/txvSignUpUsername">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/tieSignUpUsername"
+                android:inputType="text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:id="@+id/txvSignUpPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/password"
+            app:layout_constraintEnd_toEndOf="@+id/tilSignUpUsername"
+            app:layout_constraintStart_toStartOf="@+id/tilSignUpUsername"
+            app:layout_constraintTop_toBottomOf="@+id/tilSignUpUsername" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilSignUpPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:errorEnabled="true"
+            app:layout_constraintEnd_toEndOf="@+id/txvSignUpPassword"
+            app:layout_constraintStart_toStartOf="@+id/txvSignUpPassword"
+            app:layout_constraintTop_toBottomOf="@+id/txvSignUpPassword">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/tieSignUpPassword"
+                android:inputType="textPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:id="@+id/txvSignUpPasswordRequirements"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/password_requirements"
+            app:layout_constraintEnd_toEndOf="@+id/tilSignUpPassword"
+            app:layout_constraintStart_toStartOf="@+id/tilSignUpPassword"
+            app:layout_constraintTop_toBottomOf="@+id/tilSignUpPassword" />
+
+        <TextView
+            android:id="@+id/txvSignUpEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/email"
+            app:layout_constraintEnd_toEndOf="@+id/txvSignUpPasswordRequirements"
+            app:layout_constraintStart_toStartOf="@+id/txvSignUpPasswordRequirements"
+            app:layout_constraintTop_toBottomOf="@+id/txvSignUpPasswordRequirements" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilSignUpEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:errorEnabled="true"
+            app:layout_constraintEnd_toEndOf="@+id/txvSignUpEmail"
+            app:layout_constraintStart_toStartOf="@+id/txvSignUpEmail"
+            app:layout_constraintTop_toBottomOf="@+id/txvSignUpEmail">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/tieSignUpEmail"
+                android:inputType="textEmailAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnSignUpSignUp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="64dp"
+            android:layout_marginBottom="32dp"
+            android:text="@string/signUp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/tilSignUpEmail"
+            app:layout_constraintStart_toStartOf="@+id/tilSignUpEmail"
+            app:layout_constraintTop_toBottomOf="@+id/tilSignUpEmail" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664318796714",
+    "firebase_url": "https://flickmap.firebaseio.com",
+    "project_id": "flickmap",
+    "storage_bucket": "flickmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664318796714:android:f2227dfa4238dc12ddc1d3",
+        "android_client_info": {
+          "package_name": "com.cabezaperro.flickmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664318796714-ghjmvmer0obfpo2qb1dlh3v2vqjciu71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4a1acNe-FMur4TEf8iiOB_L5I5Iz_Pug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664318796714-ghjmvmer0obfpo2qb1dlh3v2vqjciu71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

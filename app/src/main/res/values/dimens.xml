@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layoutPadding">32dp</dimen>
+    <dimen name="ibtSignInWidth">48dp</dimen>
+    <dimen name="ibtSignInHeight">48dp</dimen>
+    <dimen name="fabAddMargin">16dp</dimen>
+    <dimen name="fabAddElevation">16dp</dimen>
+    <dimen name="headerPadding">16dp</dimen>
+    <dimen name="civMarginTop">32dp</dimen>
+    <dimen name="tlbToolbarElevation">4dp</dimen>
+</resources>

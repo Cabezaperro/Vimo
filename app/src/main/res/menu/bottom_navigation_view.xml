@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mniFavouriteMovies"
+        android:title="@string/movies"
+        android:icon="@drawable/ic_movie"/>
+    <item
+        android:id="@+id/mniFavouriteCinemas"
+        android:title="@string/cinemas"
+        android:icon="@drawable/ic_ticket_office_2"/>
+    <item
+        android:id="@+id/mniFavouriteShowtimes"
+        android:title="@string/showtimes"
+        android:icon="@drawable/ic_access_time_black_24dp"/>
+    <item
+        android:id="@+id/mniFavouriteSessions"
+        android:title="@string/sessions"
+        android:icon="@drawable/ic_session"/>
+
+</menu>
